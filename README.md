@@ -1,4 +1,4 @@
-# graphql_server
+# GraphQL Server
 
 ## GraphQL API: https://shrouded-bayou-24550.herokuapp.com/graphql
 
